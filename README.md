@@ -11,3 +11,5 @@ if your code is buggy it's probably because of me
 if northstar crashed because of a peacekraber, it's definitely me
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eladnlg)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
